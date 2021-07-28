@@ -32,7 +32,6 @@ export default function MenuBar() {
                     <Typography variant="h6" className={classes.title}>
                         GeoJSON Features Visualizer
           </Typography>
-                    <img src="https://www.beumergroup.com/app/uploads/dynamic/2020/07/airsiders-logo-dark-750x0-c-default.png" style={{ width: "5wh", height: "5vh" }} />
                 </Toolbar>
             </AppBar>
         </div>
