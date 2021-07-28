@@ -50,12 +50,15 @@ Due to tight schedules, we couldn't achieve as much as possible in this project.
 * More unit testing in different features.
 * Improving the user interface to match certain standards. 
 
-### 8. Running the project:
+### 8. Project commands:
+1. Running the project:
 ```console
 macos@iyadh:~$ yarn install
-foo
 ```
 ```console
 macos@iyadh:~$ yarn start
-foo
+```
+2. Testing:
+```console
+macos@iyadh:~$ yarn test
 ```
