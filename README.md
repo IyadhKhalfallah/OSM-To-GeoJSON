@@ -49,3 +49,13 @@ Due to tight schedules, we couldn't achieve as much as possible in this project.
 * Loading bars while the API is waiting for a response, to make the user experience better.
 * More unit testing in different features.
 * Improving the user interface to match certain standards. 
+
+### 8. Running the project:
+```console
+macos@iyadh:~$ yarn install
+foo
+```
+```console
+macos@iyadh:~$ yarn start
+foo
+```
