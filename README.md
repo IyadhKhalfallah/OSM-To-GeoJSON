@@ -19,14 +19,14 @@ The display of the features was made using two main frames:
 * A map, processing the GeoJSON output and displaying it directly.
 <br />
 The output is shown as the following:
-<br />
+
 ![alt text](./images/app.png "App screenshot")
 <br />
 All these can be described in the diagram down below:
-<br />
+
 ![alt text](./images/work-process.png "Work process")
 <br />
 ### 4. Implementation
 The app was implemented using ReactJS as a main library, and JavaScript as a programming language. The main components of the platform are shown in the following diagram:
-<br />
+
 ![alt text](./images/components.png "Components")
