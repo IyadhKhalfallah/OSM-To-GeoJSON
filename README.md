@@ -8,4 +8,4 @@ Through this project, we used the OpenStreetMap Map API, consisting on giving a 
 ⋅⋅* Maximum latitude
 ### 2. 
 All these can be described in the diagram down below:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](./images/work-process.png "Logo Title Text 1")
