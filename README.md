@@ -24,4 +24,4 @@ All these can be described in the diagram down below:
 
 ### 4. Implementation
 The app was implemented using ReactJS as a main library, and JavaScript as a programming language. The main components of the platform are shown in the following diagram:
-![alt text](./images/components "Components")
+![alt text](./images/components.png "Components")
