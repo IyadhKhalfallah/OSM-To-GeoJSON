@@ -6,6 +6,7 @@ Through this project, we used the OpenStreetMap Map API, consisting on giving a 
 * Minimum latitude
 * Maximum longitude
 * Maximum latitude
+<br />
 The API returns an OSM object containing all the features needed. These features are then processed and transformed to a GeoJSON format, in order to be displayed in the screen.
 ### 2. Input retrieval:
 The input retrieval was made using two methods:
@@ -16,12 +17,16 @@ The input retrieval was made using two methods:
 The display of the features was made using two main frames:
 * A datatable containing the features, each row with its details in a modal.
 * A map, processing the GeoJSON output and displaying it directly.
+<br />
 The output is shown as the following:
+<br />
 ![alt text](./images/app.png "App screenshot")
-
+<br />
 All these can be described in the diagram down below:
+<br />
 ![alt text](./images/work-process.png "Work process")
-
+<br />
 ### 4. Implementation
 The app was implemented using ReactJS as a main library, and JavaScript as a programming language. The main components of the platform are shown in the following diagram:
+<br />
 ![alt text](./images/components.png "Components")
