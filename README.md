@@ -6,7 +6,7 @@ Through this project, we used the OpenStreetMap Map API, consisting on giving a 
 * Minimum latitude
 * Maximum longitude
 * Maximum latitude
-<br />
+
 The API returns an OSM object containing all the features needed. These features are then processed and transformed to a GeoJSON format, in order to be displayed in the screen.
 ### 2. Input retrieval
 The input retrieval was made using two methods:
